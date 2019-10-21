@@ -1,3 +1,6 @@
+datasets
+output
+
 *.jpg
 *.png
 *.weights
